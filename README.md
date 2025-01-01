@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/jorge-ramirez-arg" target="blank">
-Jorge-yr</a></h1>
-<h3 align="center">A degree Business Management, apassionate for tenology  &#127470;&#127475</h3>
-
+jorge-yr</a></h1>
+<h3 align="center"> I'm a degree Business Management, apassionate for tenology.  &#127470;&#127475</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <!--
 **Jorge-yr/Jorge-yr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="http:http://www.previsoradelparana.com/" target="blank">Previsora del Paraná SRL</a> as a Business Intelligence Data Analyst.
+- 🔭 I’m currently working in <a href="http:http://www.previsoradelparana.com/" target="blank">Previsora del Paraná SRL</a> as a Business Intelligence Data Analyst since 2021.
 
-- 🌱 I’m currently learning English and GENAI.
+- 🌱 I’m currently learning `Computer Science`, `GENAI` and `English`.
 
 - 🤝 I’m available for freelancing.
 
@@ -88,9 +88,11 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,windows,gmail,ps,azure,googlecloud,anaconda,py,r,sklearn,tensorflow,linkedin,ai,regex,vscode,docker,kubernetes&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,windows,gmail,ps,azure,googlecloud,anaconda,py,r,sklearn,tensorflow,linkedin,ai,regex,vscode,docker,kubernetes&perline=10" />
   </a>
 </p>
+
+
 
 Credit: [Jorge Ramirez Arg](https://github.com/Jorge-yr)
 
