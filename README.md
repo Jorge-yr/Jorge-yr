@@ -1,14 +1,13 @@
 
-<img align="right" alt="Coding" width="500" src="https://github.com/Jorge-yr/Jorge-yr/blob/689d7ad25446fcbbe47abae550258120b00a669e/173241_2.jpg" >
 
 <h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/jorge-ramirez-arg" target="blank">
-jorge-yr</a></h1>
-<h1 align="left">...</h1>
+jorge-yr</a><img align="right" alt="Coding" width="500" src="https://github.com/Jorge-yr/Jorge-yr/blob/689d7ad25446fcbbe47abae550258120b00a669e/173241_2.jpg" >
+
+...</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+degree+Business+Management;Data+Analyst+and+Business+Intelligence;Data+Scientist+Jr;I'm+apassionate+for+tecnology;Always+learning+new+things"></a>
 </p>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <!--
 **Jorge-yr/Jorge-yr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -36,7 +34,9 @@ Here are some ideas to get you started:
     <summary><h2 style="display: inline-block">About me 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working in <a href="http:http://www.previsoradelparana.com/" target="blank">Previsora del Paraná SRL</a> as a Business Intelligence Data Analyst since 2021.
 
@@ -108,7 +108,31 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+</br></br>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🐍 A Snake Eating my Contributions Graph</h2></summary>
+  </ul>
+</div>
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
+
+<!-- grph -->
+<div align="left">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jorge-yr&theme=vue" alt="profile detail" />
+  
+</div>
+
+##
+
+If you have any questions or just want to say hi, feel free to reach out.
 
 Credit: [Jorge Ramirez Arg](https://github.com/Jorge-yr)
 
