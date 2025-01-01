@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/jorge-ramirez-arg" target="blank">
 jorge-yr</a></h1>
-<h3 align="center"> I'm a degree Business Management, apassionate for tenology.  &#127470;&#127475</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+degree+Business+Management;Data+Analyst+and+Business+Intelligence;Computer+Science+Student;I'm+apassionate+for+tecnology;Always+learning+new+things"></a>
+</p>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <!--
@@ -27,6 +30,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in <a href="http:http://www.previsoradelparana.com/" target="blank">Previsora del Paraná SRL</a> as a Business Intelligence Data Analyst since 2021.
 
 - 🌱 I’m currently learning `Computer Science`, `GENAI` and `English`.
+
+- 💬 I have proficience in Business, Finance, Administrative and Accounting approach.
 
 - 🤝 I’m available for freelancing.
 
