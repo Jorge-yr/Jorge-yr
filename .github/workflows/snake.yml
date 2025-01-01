@@ -1,0 +1,23 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche
+  push:
+    branches:
+      - main  # Ejecuta en cada push a la rama principal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Jorge-yr
+          outputs: |
+            dist/github-snake.svg
