@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/jorge-ramirez-arg" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/jorge-ramirez-arg" target="blank">
 jorge-yr</a><img align="right" alt="Coding" width="500" src="https://github.com/Jorge-yr/Jorge-yr/blob/689d7ad25446fcbbe47abae550258120b00a669e/173241_2.jpg" >
 
 ...</h1>
